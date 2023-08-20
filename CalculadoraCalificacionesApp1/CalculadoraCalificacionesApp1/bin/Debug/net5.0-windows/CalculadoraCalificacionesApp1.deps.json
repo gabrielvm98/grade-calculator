@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalculadoraCalificacionesApp1/1.0.0": {
+        "runtime": {
+          "CalculadoraCalificacionesApp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraCalificacionesApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
